@@ -1,6 +1,6 @@
 # ASRT_ultra_fast_consolidation
 
-Created by the MEMO Team of Lyon Neuroscience Research Center (CRNL), Université Claude Bernard Lyon 1 (PI: Dezso Nemeth)
+<i>Created by the MEMO Team of Lyon Neuroscience Research Center (CRNL), Université Claude Bernard Lyon 1 (PI: Dezso Nemeth)</i>
 
 Experimental code for the ultra-fast consolidation project.
 
