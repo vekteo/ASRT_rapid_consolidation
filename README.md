@@ -1,4 +1,7 @@
 # ASRT_ultra_fast_consolidation
+
+Created by the MEMO Team of Lyon Neuroscience Research Center (CRNL), Université Claude Bernard Lyon 1 (PI: Dezso Nemeth)
+
 Experimental code for the ultra-fast consolidation project.
 
 Differences from the <a href="https://github.com/vekteo/ASRT_JSPsych">self-paced version</a>:
