@@ -1,6 +1,5 @@
-# ASRT_JSPsych_mini_consolidation
-
-ASRT script for the mini-consolidation project.
+# ASRT_ultra_fast_consolidation
+Experimental code for the ultra-fast consolidation project.
 
 Differences from the <a href="https://github.com/vekteo/ASRT_JSPsych">self-paced version</a>:
 
