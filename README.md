@@ -1,6 +1,6 @@
 # ASRT_ultra_fast_consolidation
 
-Created by the MEMO Team of Lyon Neuroscience Research Center (CRNL), Université Claude Bernard Lyon 1 (PI: Dezso Nemeth)
+Created by the <strong>MEMO Team</strong> of <strong>Lyon Neuroscience Research Center (CRNL)</strong>, Université Claude Bernard Lyon 1 (PI: Dezso Nemeth)
 
 <img src="logo.png" width=100>
 
