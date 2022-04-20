@@ -2,6 +2,8 @@
 
 Created by the MEMO Team of Lyon Neuroscience Research Center (CRNL), Université Claude Bernard Lyon 1 (PI: Dezso Nemeth)
 
+<img src="logo.png" width=100>
+
 Experimental code for the ultra-fast consolidation project. The implementation of the codes on the Gorilla Experiment Builder Platform can be found by <a href="https://app.gorilla.sc/openmaterials/397611">clicking here</a>.
 
 <h2>Alternating Serial Reaction Time (ASRT) Task</h2>
