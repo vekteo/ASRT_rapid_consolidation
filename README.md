@@ -1,8 +1,12 @@
-# ASRT_JSPsych_mini_consolidation
+# ASRT_ultra_fast_consolidation
 
-ASRT script for the mini-consolidation project.
+Created by the MEMO Team of Lyon Neuroscience Research Center (CRNL), Université Claude Bernard Lyon 1 (PI: Dezso Nemeth)
 
-Differences from the <a href="https://github.com/vekteo/ASRT_JSPsych">self-paced version</a>:
+Experimental code for the ultra-fast consolidation project. The implementation of the code on the Gorilla Experiment Builder Platform can be found by clicking here <a href="https://app.gorilla.sc/openmaterials/397611">clicking here</a>.
+
+<h2>Alternating Serial Reaction Time (ASRT) Task</h2>
+
+Differences from the <a href="https://github.com/vekteo/ASRT_jsPsych">self-paced version</a>:
 
 - 3 different groups as modified by the "group" variable:
 1. <strong> Self-paced group </strong>: the user can continue the task after the block feedback by pressing any button
@@ -13,3 +17,6 @@ Differences from the <a href="https://github.com/vekteo/ASRT_JSPsych">self-paced
 - 25 ASRT blocks
 - First 5 random is removed from the beginning of the block, thus, one block contains 80 stimuli (the first 2 is labeled as "X")
  
+ <h2>N-back task</h2>
+
+ More details: <a href="https://github.com/vekteo/Nback_jsPsych">
