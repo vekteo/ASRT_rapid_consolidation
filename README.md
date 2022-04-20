@@ -19,4 +19,4 @@ Differences from the <a href="https://github.com/vekteo/ASRT_jsPsych">self-paced
  
  <h2>N-back task</h2>
 
- More details <a href="https://github.com/vekteo/Nback_jsPsych">here</a>
+ More details <a href="https://github.com/vekteo/Nback_jsPsych">here</a>.
