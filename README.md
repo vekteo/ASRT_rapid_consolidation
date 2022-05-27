@@ -2,7 +2,8 @@
 
 Created by the <strong>MEMO Team</strong> of <strong>Lyon Neuroscience Research Center (CRNL)</strong>, Université Claude Bernard Lyon 1 (PI: Dezso Nemeth)
 
-<img src="static/logo_memo.png" width=100>
+<img src="static/logo_memo.png" height="100">
+<img src="static/logo_lyon.png" height="100">
 
 Experimental code for the rapid consolidation project. The implementation of the codes on the Gorilla Experiment Builder Platform can be found by <a href="https://app.gorilla.sc/openmaterials/397611">clicking here</a>.
 
